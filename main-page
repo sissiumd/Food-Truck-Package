@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">	
+	<!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="cnsmaryland.org">
+    <meta name="twitter:title" content="Food Trucks Are a Hot Business in Baltimore, When They Find a Place to Park">
+    <meta name="twitter:description" content="The number of food trucks in Baltimore has doubled in less than two years. But regulators have yet to catch up with the rapid change in food industry.">
+    <meta name="twitter:creator" content="@CNSmd">
+    <!-- Twitter Summary card images must be at least 120x120px -->
+    <meta name="twitter:image" content="http://cnsmaryland.org/wp-content/uploads/2015/12/04.jpg">
+
+    <!-- Open Graph data -->
+   <meta property="og:title" content="Food Trucks Are a Hot Business in Baltimore, When They Find a Place to Park" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://cnsmaryland.org/interactives/fall-2015-2/food-truck-12-15/index.html" />
+    <meta property="og:image" content="http://cnsmaryland.org/wp-content/uploads/2015/12/04.jpg" />
+    <meta property="og:description" content="The number of food trucks in Baltimore has doubled in less than two years. But regulators have yet to catch up with the rapid change in food industry." /> 
+    <meta property="og:site_name" content="cnsmaryland.org" /> 
+    
+    
+    <link rel="stylesheet" href="foundation/css/normalize.css">
+    <link rel="stylesheet" href="foundation/css/foundation.css"><!--Foundation css-->
+	<link rel="stylesheet" href="stylesheet.css"> 
+	<!--google fonts-->
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
+	<!--dropdown menu js-->
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.js"></script>
+    <!-- bxSlider Javascript file -->
+	<script src="js/jquery.bxslider.min.js"></script>
+<!-- bxSlider CSS file -->
+	<link href="bxslider.css" rel="stylesheet">
+	<script src="js/vendor/jquery.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+    
+	<title>Food Trucks in Baltimore</title>
+	<script>
+$(document).ready(function(){
+$('.bxslider').bxSlider({
+  pagerCustom: '#bx-pager'
+});
+});
+    </script><!--slide-->
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-53de7c8959c5ef68" async="async"></script>
+
+</head>
+
+<body>
+
+<nav class="top-bar menu" role="navigation" data-options="sticky_on: [medium,large]">
+    <a href="http://cnsmaryland.org/" target="_blank"><img class="logo" src="cnslogo-yellow-long.png"></a>
+    <div class="addthis_sharing_toolbox" style="display:inline-block; float:right; padding:5px;"></div><!--share buttons-->
+    
+</nav>
+    
+ 
+<div class="row headline">
+	<div class="large-12 columns">
+		<h1>Food Trucks Are a Hot Business in Baltimore, When They Find a Place to Park</h1>
+	</div>
+	<div class="large-12 columns byline">
+		<h5>By <a href="http://www.twitter.com/sissicao" target="_blank"> Sissi Cao </a>  <span class="date">  December 1, 2015</span></h5>
+    </div>
+    
+    
+	
+	<div class="large-12 medium-12 columns subtitle" style="width:90%">
+		<h4>The number of food trucks in Baltimore has doubled in less than two years. But regulators have yet to catch up with the rapid change in food industry. </h4>
+	</div>
+</div>
+
+<div class="headimage">
+	<div class="large-12 columns">
+	<img src="img/04.jpg">
+	</div>
+	<div class="large-12 columns">
+	<p class="photocap">The Green Bowl, a two-year-old food truck, stops in Fells Point every Friday during lunch hours. Capital News Service photo by Sissi Cao</p>
+	</div>
+</div>
+
+<div class="row text">
+	<div class="large-12 columns">
+<p>BALTIMORE - When David Chapman decided to open a bright green food truck selling healthy meals in large bowls two years ago, he had a lot less competition on Baltimore’s streets. </p>
+
+<p>“I was just tired of having a boss,” Chapman, 34, said of his decision to leave his career as a technician to start The Green Bowl, dishing out Bibimbap, a Korean-inspired rice dish, and other favorites to a loyal customer base.  </p>
+ 
+
+<p>Two years later, the number of food trucks roaming Baltimore in search of customers has more than doubled from 25 to 64, according to city transportation department data analyzed by Capital News Service.  </p>
+
+<p>Food truck owners say they expect their ranks to continue to grow, despite outdated  street vending laws governing food trucks that could hamper future expansion in Baltimore.</p>
+
+
+</div>
+</div><!--close row-->
+ 
+<div class="row text">
+	<div class="large-12 columns">
+<p>Today, it’s possible to get a Greek lamb burger, Indian tandoori, a lobster mac and cheese cone and a hand-crafted caramel latte from food trucks that roam the city.  The Green Bowl, for example, appears on the stone-paved Thames Street at Fells Point every Friday around lunchtime, where Jimmy McNeely often grabs a meal. </p>
+
+<p>“I come here mainly for the convenience, because it’s right next to my office. I either bring lunch from home or come here,” said McNeely, 25,  who works at Morgan Stanley, a two-minute walk from The Green Bowl’s spot on Thames Street.  </p>
+
+<p>Ashley Ridgeway, 26, a security staffer at Morgan Stanley, said she has taken to eating lunch from food trucks because of their “creativity,” which sets them apart from standardized fast food offerings. </p>
+
+<p>“They offer food that’s not on the menu in traditional restaurants,” Ridgeway said. “I had never bought lunch from food trucks until I began working here about a year ago. Now I’m a big fan.”</p>
+ 
+<p>Ridgeway has tried four different food trucks that come to Fells Point on different days. Her favorites: those that sell barbecue and burgers, like The Smoking Swine on Tuesdays or Gypsy Queen Cafe on Fridays. </p>
+
+<p>“I’m not a calories counter, so I’m not too concerned about the healthfulness of these food,” she laughed.</p>
+
+
+</div>
+</div>
+ 
+<div class="row text">
+	<div class="large-12 columns">
+<p>The food truck movement began about ten years ago in Los Angeles, led by a Korean barbecue truck called Kogi, according to the Associated Press. In the ensuing decade, food trucks have spread to cities large and small, becoming a critical part of the dining landscape.  </p>
+
+</div>
+
+<div class="large-6 medium-6 small-12 columns">
+<img class="graphic" src="chart1.png">
+</div>
+<div class="large-6 medium-6 small-12 columns">
+<img class="graphic" src="chart2.png">
+</div>
+
+
+
+</div>
+</div><!--close row-->
+
+
+<div class="row text">
+	<div class="large-12 columns">
+
+<p>Drew Pumphrey, a civil engineer turned food truck owner, normally serves 120 to 150 customers during lunch on a typical weekday from his barbecue truck, The Smoking Swine. </p>
+
+<p>“It’s been far more profitable than we initially thought,” Pumphrey said, noting that he only needs to serve 60 people to turn a profit for the day.</p>
+
+<p>Food trucks fill the sweet spot of “convenience food,” in between the two traditional eatery categories, fast food and restaurants.  They serve tastier food than fast food chains, but at a faster pace than most sit-down restaurants, making it particularly appealing to the young and busy.</p>
+ 
+<p>David Pulford, owner of UpSlideDown Dave, a three-year old barbecue truck in Baltimore, said most of his customers are urban professionals between 25 and 40. </p>
+
+<p>“A lot of baby boomers still don’t quite get the idea. But some late baby boomers are very accepting [of] food trucks,” Pulford said.</p>
+
+<h5 class="smalltitle">Proximity Law Troubles Vendors</h5>
+ 
+<p>As food trucks become more popular, the gap between existing restaurant regulations and the needs of mobile eateries is becoming more apparent in Baltimore and other U.S. cities.</p>
+ 
+<p>In March, the John F. Kennedy School of Government at Harvard University published a case study on current food truck regulations in four U.S. cities, including Washington, D.C. </p>
+
+<p>“Municipalities are being forced to revisit these regulations as issues arise over competitiveness, parking, sanitation, property and sales taxes, and proximity to brick and mortar businesses,” wrote Jessica Huey, the author of the case study report.</p>
+ 
+<p>The “proximity law”, which prohibits food trucks from operating within 300 feet of any restaurant, is common in many cities, including Baltimore. Because hungry customers tend to congregate in restaurant-dense areas, the law puts food trucks at a disadvantage. </p>
+ 
+<p>Sean Burnett, a spokesperson for the city transportation department, said the proximity law was originally created to protect both food trucks and restaurant owners from competing with each other. </p>
+
+<p>“During the creation of the legislation, the focus was becoming more … friendly,” to small restaurants that are more vulnerable to competition than large restaurants, Burnett wrote in an email.  </p>
+ 
+<p>Food truck owners, however, are not convinced that food trucks and restaurants compete for the same customers. </p>
+
+<p>“There is no proof that restaurants are negatively affected by food trucks at all. Food trucks sell a different league of food. It’s completely different from a restaurant,” Pumphrey said. “What we are in competition with are brown-bag lunches -- whether people bring lunch to work or not.”</p>
+ 
+<p>Restaurant owners see it differently. “I don’t see any disparity in demographics between food truck consumers and restaurants,” said Tony Minadakis, owner of Jimmy’s Famous Seafood, a casual dining spot in downtown Baltimore. </p>
+
+<p>For the last two years, the restaurant has also operated a food truck that tours the city every day. “We use this food truck more as a marketing tool than a profit generator. So far it has helped bring more people to our restaurant,” Minadakis said.</p>
+
+</div>
+</div>
+
+<!--slide-->
+<div class="large-12 columns">
+<div class="slidebox">
+<ul class="bxslider">
+  <li><img src="img/ricebowl.jpg"/><span class="bx-caption">Bibimbap, one of the signature dishes served by The Green Bowl, a two-year-old food truck in Baltimore. <span class="photosource"> (Handout photo courtesy The Green Bowl)</span></span></li>
+  <li><img src="img/profile01.jpg"/><span class="bx-caption">David Chapman, owner of the Green Bowl, started the food truck out of a desire to be his own boss. <span class="photosource"> (Capital News Service photo by Sissi Cao)</span></span></li>
+  <li><img src="img/closeup02.jpg"/><span class="bx-caption">David Chapman, right, owner of The Green Bowl food truck, takes an order from a lunch customer. <span class="photosource">(Capital News Service photo by Sissi Cao)</span></span></li>
+  <li><img src="img/03.jpg"/><span class="bx-caption">A customer at The Green Bowl splashes Sriracha hot sauce onto his Bibimbap for extra flavor. <span class="photosource">(Capital News Service photo by Sissi Cao)</span></span></li>
+  <li><img src="img/upslidedown01.jpg"/><span class="bx-caption">a "chicken salad slider" from UpSlideDown Dave, a food truck that often serves in Baltimore. <span class="photosource">(Handout photo courtesy UpSlideDown Dave)</span></span></li>
+   <li><img src="img/upslidedown03.jpg"/><span class="bx-caption">Food trucks await customers at Patterson Park for the Star Spangled Celebration in 2014. <span class="photosource">(Handout photo courtesy UpSlideDown Dave)</span></span></li>
+  
+  <li><img src="img/truck02.jpg"/><span class="bx-caption">A customer looks at the menu of the Gypsy Queen Cafe, which stops in Fells Point on Friday. <span class="photosource">(Capital News Service photo by Sissi Cao)</span></span></li>
+  <li><img src="img/profile02.jpg"/><span class="bx-caption">Ashley Ridgeway, 26, loves eating at the Gypsy Queen Cafe, which stops close to her workplace on Fridays. <span class="photosource">(Capital News Service photo by Sissi Cao)</span></span></li>
+  <li><img src="img/05.jpg"/><span class="bx-caption">A crowd of customers waits for their food at the Gypsy Queen Cafe in Fells Point. <span class="photosource">(Capital News Service photo by Sissi Cao)</span></span></li>
+</ul>
+
+<div id="bx-pager">
+  <a data-slide-index="0" href=""><img src="img/ricebowl.jpg" /></a>
+  <a data-slide-index="1" href=""><img src="img/profile01.jpg" /></a>
+  <a data-slide-index="2" href=""><img src="img/closeup02.jpg" /></a>
+  <a data-slide-index="3" href=""><img src="img/03.jpg" /></a>
+  <a data-slide-index="4" href=""><img src="img/upslidedown01.jpg" /></a>
+  <a data-slide-index="5" href=""><img src="img/upslidedown03.jpg" /></a>
+  
+  <a data-slide-index="6" href=""><img src="img/truck02.jpg" /></a>
+  <a data-slide-index="7" href=""><img src="img/profile02.jpg"/></a>
+  <a data-slide-index="8" href=""><img src="img/05.jpg" /></a>
+</div>
+</div>
+</div>
+
+<!--slide ends here-->
+
+<div class="row text">
+<div class="large-12 columns">
+
+<h5 class="smalltitle">Parking Becomes a Major Challenge</h5>
+ 
+<p>To accommodate the needs of mobile food vendors, many cities have created “food truck zones” – parking spots that are designated for food trucks. Prince George’s County passed a law in October that created 12 “food truck hubs” in the county. Under old laws, food trucks were only allowed to do business at festivals and other one-day events.</p>
+ 
+<p>Finding a parking spot during lunch hours is still a pain for vendors. The designated spaces are frequently filled. And if they park in a regular space, they run the risk of violating the proximity law by parking within 300 feet of a restaurant. </p>
+ 
+<p>Baltimore first created food truck zones in 2011. In June 2014, the city council passed a bill promising to create more zones. But after almost 18 months, that promise has yet to be fulfilled. </p>
+
+<p>In some cases, vendors have seen existing food truck parking spots vanish.</p>
+ 
+<p>Chapman from The Green Bowl said there used to be a food truck space at the crossing of E. Pratt Street and Commerce Street, until a Shake Shack opened in February. The city removed the food truck space during construction. But after Shake Shack opened for business, the food truck spot wasn’t replaced.</p>
+ 
+<p>“It’s what the city wants to do. In some cases, it’s obviously that it’s what the restaurant wants,” Chapman said.</p>
+ 
+<p>The city transportation department said they had not removed any food truck spots due to new restaurants opening.  But they have been forced to remove spots because of construction and utility maintenance work. Burnett said construction around the Shake Shack location is still ongoing, and the city is looking for a replacement spot for food trucks.</p>
+
+<p>Baltimore currently has about 60 food trucks and nine 50-foot food truck spots plus a food truck park downtown, according to city records. A 50-foot spot can generally hold two food trucks.  The trucks can also use regular street parking spaces as long as they comply with the proximity law. </p>
+ 
+<p>Besides restaurants, food trucks are also restricted from parking within two blocks of schools, city markets, and football and baseball stadiums on game days.</p>
+  
+<p>The spot on Thames Street in Fells Point The Green Bowl favors is a regular street parking space -- but there’s no guarantee it will always be available. Last month, The Green Bowl circled around for an hour and eventually had to move to another place three miles away.</p>
+
+
+</div>
+ 
+<div class="large-12 large-offset-3 medium-12 medium-offset-2 small-12 columns twitter">
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Very sorry Fell&#39;s point, but after circling the block for an hour, we cannot find any parking. Our future here is uncertain...</p>&mdash; The Green Bowl (@bmoregreenbowl) <a href="https://twitter.com/bmoregreenbowl/status/662623007832154112">November 6, 2015</a></blockquote>
+
+<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<div class="large-12 columns"> 
+ <p>“Now there are very few spots in town that are any good and worth parking at. It’s a mess.” Chapman said.</p>
+</div>
+</div>
+
+<!--yelp-->
+<script type="text/javascript">
+$(function(){
+		$("#name").change(function() {
+			$('div.hidden').hide();   
+			$("#" + $(this).val()).show();
+		}).change();
+	})
+</script>
+<!--yelp script-->
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){
+  
+  getYelpWidget("aladdin-grill-baltimore","300","RED","y","y","2");};
+  s.src='http://chrisawren.com/widgets/yelp/yelpv2.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+  
+ </script> 
+ 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){
+  
+  getYelpWidget("bistro-lunch-box-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs02.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+  
+ </script> 
+ 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){
+  getYelpWidget("busias-kitchen-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs03.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("cream-cruiser-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs04.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+</script> 
+ 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("cruisin-cafe-reisterstown","300","RED","y","y","2");};
+  s.src='js/yelpjs05.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("darua-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs06.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("diner-on-the-go-reisterstown","300","RED","y","y","2");};
+  s.src='js/yelpjs07.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+</script> 
+ 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("egg-and-cheese-yo-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs08.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("everything-turkey-baltimore-2","300","RED","y","y","2");};
+  s.src='js/yelpjs09.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("flavor-cupcakery-cockeysville-3","300","RED","y","y","2");};
+  s.src='js/yelpjs10.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+</script> 
+ 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("fowl-play-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs11.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("grrche-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs12.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <!--number 13 begins-->
+ 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("gypsy-queen-cafe-baltimore-2","300","RED","y","y","2");};
+  s.src='js/yelpjs13.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("jimmys-famous-seafood-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs14.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("karlitas-mobile-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs15.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("koco-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs16.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("kommie-pig-bbq-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs17.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("koopers-chowhound-burger-wagon-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs18.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("lucky-cup-espresso-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs19.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ 
+  <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("mmm-mmm-mmm-good-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs20.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("pirates-of-the-mediterranean-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs21.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("pizza-di-joey-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs22.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("savannahs-caribbean-kitchen-baltimore-2","300","RED","y","y","2");};
+  s.src='js/yelpjs23.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("shareefs-grill-house-of-wraps-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs24.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("south-carolina-bbq-and-catering-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs25.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("tacos-jaliscos-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs26.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("the-crab-lab-baltimore-2","300","RED","y","y","2");};
+  s.src='js/yelpjs27.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("the-green-bowl-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs28.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("the-jolly-pig-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs29.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("the-smoking-swine-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs30.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("sultan-tandoor-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs31.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("upslidedown-dave-fulton","300","RED","y","y","2");};
+  s.src='js/yelpjs32.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("wheyich-baltimore-2","300","RED","y","y","2");};
+  s.src='js/yelpjs33.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ 
+ 
+
+<div class="row" style="background-color:#fafafa; padding-bottom:30px; margin-top:80px;">
+	<div class="large-5 large-offset-1 medium-6 columns">
+	<form>
+<h3>What are people saying about Baltimore food trucks?</h3>
+<p>Choose a Baltimore food truck to see its rating and most recent customer reviews on Yelp. Not all of Baltimore's 64 food trucks are rated on Yelp. </p>
+<br>
+  <select name="rating" id="name">
+  	<option value="">Choose a food truck</option>   
+    <option value="yelpwidget">Aladdin Grill</option>
+    <option value="yelpwidget02">Bistro Lunch Box</option>
+    <option value="yelpwidget03">Busias Kitchen</option>
+    <option value="yelpwidget04">Cream Cruiser</option>
+    <option value="yelpwidget05">Cruisin Cafe</option>
+    <option value="yelpwidget06">Da Rua</option>
+    <option value="yelpwidget07">Diner On The Go</option>
+    <option value="yelpwidget08">Egg & Cheese Yo</option>
+    <option value="yelpwidget09">Everything Turkey</option>
+    <option value="yelpwidget10">Flavor Cupcakery</option>
+    <option value="yelpwidget11">Fowl Play Food Truck</option>
+    <option value="yelpwidget12">Grr Che</option>
+    <option value="yelpwidget13">Gypsy Queen Cafe</option>   
+    <option value="yelpwidget14">Jimmy's Famous Seafood</option>
+    <option value="yelpwidget15">Karlita's</option>
+    <option value="yelpwidget16">KOCO</option>
+    <option value="yelpwidget17">Kommie Pig</option>
+    <option value="yelpwidget18">Kooper's Chowhound Wagon</option>
+    <option value="yelpwidget19">Lucky Cup</option>
+    <option value="yelpwidget20">MMM MMM MMM Good Food truck</option>
+    <option value="yelpwidget21">Pirates of the Mediterranean</option>
+    <option value="yelpwidget22">Pizza di Joey</option>
+    <option value="yelpwidget23">Savannah's Caribbean Kitchen</option>
+    <option value="yelpwidget24">Shareef's Grill</option>
+    <option value="yelpwidget25">South Carolina BBQ & Catering</option>
+     <option value="yelpwidget26">Tacos Jalisco</option>
+    <option value="yelpwidget27">The Crab Lab</option>
+    <option value="yelpwidget28">The Green Bowl</option>
+    <option value="yelpwidget29">The Jolly Pig</option>
+    <option value="yelpwidget30">The Smoking Swine</option>
+    <option value="yelpwidget31">The Sultan</option>
+    <option value="yelpwidget32">UpSlideDown Dave</option>
+    <option value="yelpwidget33">Wheyich</option>
+  </select>
+	</form>
+	</div>
+	<div class="large-5 large-pull-1 medium-6 columns">
+<div class="yelpwidget hidden" id="yelpwidget"></div>
+<div class="yelpwidget hidden" id="yelpwidget02"></div>  
+<div class="yelpwidget hidden" id="yelpwidget03"></div>
+<div class="yelpwidget hidden" id="yelpwidget04"></div>
+<div class="yelpwidget hidden" id="yelpwidget05"></div>  
+<div class="yelpwidget hidden" id="yelpwidget06"></div>
+<div class="yelpwidget hidden" id="yelpwidget07"></div>
+<div class="yelpwidget hidden" id="yelpwidget08"></div>  
+<div class="yelpwidget hidden" id="yelpwidget09"></div>
+<div class="yelpwidget hidden" id="yelpwidget10"></div>
+<div class="yelpwidget hidden" id="yelpwidget11"></div>  
+<div class="yelpwidget hidden" id="yelpwidget12"></div>
+<div class="yelpwidget hidden" id="yelpwidget13"></div>
+<div class="yelpwidget hidden" id="yelpwidget14"></div>  
+<div class="yelpwidget hidden" id="yelpwidget15"></div>
+<div class="yelpwidget hidden" id="yelpwidget16"></div>
+<div class="yelpwidget hidden" id="yelpwidget17"></div>  
+<div class="yelpwidget hidden" id="yelpwidget18"></div>
+<div class="yelpwidget hidden" id="yelpwidget19"></div>
+<div class="yelpwidget hidden" id="yelpwidget20"></div>  
+<div class="yelpwidget hidden" id="yelpwidget21"></div>
+<div class="yelpwidget hidden" id="yelpwidget22"></div>
+<div class="yelpwidget hidden" id="yelpwidget23"></div>  
+<div class="yelpwidget hidden" id="yelpwidget24"></div>
+<div class="yelpwidget hidden" id="yelpwidget25"></div>
+<div class="yelpwidget hidden" id="yelpwidget26"></div>  
+<div class="yelpwidget hidden" id="yelpwidget27"></div>
+<div class="yelpwidget hidden" id="yelpwidget28"></div>
+<div class="yelpwidget hidden" id="yelpwidget29"></div>  
+<div class="yelpwidget hidden" id="yelpwidget30"></div>
+<div class="yelpwidget hidden" id="yelpwidget31"></div>
+<div class="yelpwidget hidden" id="yelpwidget32"></div>  
+<div class="yelpwidget hidden" id="yelpwidget33"></div>
+	</div>
+	</div><!--close row-->
+	
+
+
+<footer>Copyright @ Sissi Cao for Capital News Service 2015.</footer>
+<!--google analytics-->
+   <script>
+     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+     ga('create', 'UA-46219342-1', 'auto');
+     ga('send', 'pageview');
+    </script>
+</body>
+
+</html>
