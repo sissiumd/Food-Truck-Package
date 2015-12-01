@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Baltimore Food Trucks on Yelp</title>
+
+	<link rel="stylesheet" href="foundation/css/normalize.css">
+    <link rel="stylesheet" href="foundation/css/foundation.css"><!--Foundation css-->
+	<link rel="stylesheet" href="stylesheet.css"> 
+	<!--google fonts-->
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
+
+
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.js"></script>
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+
+<!--dropdown script-->
+<script type="text/javascript">
+$(function(){
+		$("#name").change(function() {
+			$('div.hidden').hide();   
+			$("#" + $(this).val()).show();
+		}).change();
+	})
+</script>
+<!--yelp script-->
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){
+  
+  getYelpWidget("aladdin-grill-baltimore","300","RED","y","y","2");};
+  s.src='http://chrisawren.com/widgets/yelp/yelpv2.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+  
+ </script> 
+ 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){
+  
+  getYelpWidget("bistro-lunch-box-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs02.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+  
+ </script> 
+ 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){
+  getYelpWidget("busias-kitchen-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs03.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("cream-cruiser-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs04.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+</script> 
+ 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("cruisin-cafe-reisterstown","300","RED","y","y","2");};
+  s.src='js/yelpjs05.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("darua-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs06.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("diner-on-the-go-reisterstown","300","RED","y","y","2");};
+  s.src='js/yelpjs07.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+</script> 
+ 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("egg-and-cheese-yo-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs08.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("everything-turkey-baltimore-2","300","RED","y","y","2");};
+  s.src='js/yelpjs09.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("flavor-cupcakery-cockeysville-3","300","RED","y","y","2");};
+  s.src='js/yelpjs10.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+</script> 
+ 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("fowl-play-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs11.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+<script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("grrche-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs12.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <!--number 13 begins-->
+ 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("gypsy-queen-cafe-baltimore-2","300","RED","y","y","2");};
+  s.src='js/yelpjs13.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("jimmys-famous-seafood-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs14.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("karlitas-mobile-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs15.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("koco-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs16.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("kommie-pig-bbq-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs17.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("koopers-chowhound-burger-wagon-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs18.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("lucky-cup-espresso-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs19.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ 
+  <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("mmm-mmm-mmm-good-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs20.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("pirates-of-the-mediterranean-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs21.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("pizza-di-joey-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs22.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("savannahs-caribbean-kitchen-baltimore-2","300","RED","y","y","2");};
+  s.src='js/yelpjs23.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("shareefs-grill-house-of-wraps-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs24.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("south-carolina-bbq-and-catering-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs25.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("tacos-jaliscos-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs26.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("the-crab-lab-baltimore-2","300","RED","y","y","2");};
+  s.src='js/yelpjs27.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("the-green-bowl-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs28.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("the-jolly-pig-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs29.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("the-smoking-swine-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs30.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("sultan-tandoor-food-truck-baltimore","300","RED","y","y","2");};
+  s.src='js/yelpjs31.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("upslidedown-dave-fulton","300","RED","y","y","2");};
+  s.src='js/yelpjs32.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ <script>
+  (function() { 
+  var s = document.createElement("script");
+  s.async = true;
+  s.onload = s.onreadystatechange = function(){ 
+  getYelpWidget("wheyich-baltimore-2","300","RED","y","y","2");};
+  s.src='js/yelpjs33.js' ;
+  var x = document.getElementsByTagName('script')[0];
+  x.parentNode.insertBefore(s, x);})();e
+ </script> 
+ 
+</head>
+<body>
+<div class="row" style="background-color:#fafafa; padding-bottom:30px;">
+	<div class="large-5 large-offset-1 medium-6 columns">
+	<form>
+<h3>What are people saying about Baltimore food trucks?</h3>
+<p>Choose a Baltimore food truck to see its rating and most recent customer reviews on Yelp. Not all of Baltimore's 64 food trucks are rated on Yelp.</p>
+<br>
+  <select name="rating" id="name">
+  	<option value="">Choose a food truck</option>   
+    <option value="yelpwidget">Aladdin Grill</option>
+    <option value="yelpwidget02">Bistro Lunch Box</option>
+    <option value="yelpwidget03">Busias Kitchen</option>
+    <option value="yelpwidget04">Cream Cruiser</option>
+    <option value="yelpwidget05">Cruisin Cafe</option>
+    <option value="yelpwidget06">Da Rua</option>
+    <option value="yelpwidget07">Diner On The Go</option>
+    <option value="yelpwidget08">Egg & Cheese Yo</option>
+    <option value="yelpwidget09">Everything Turkey</option>
+    <option value="yelpwidget10">Flavor Cupcakery</option>
+    <option value="yelpwidget11">Fowl Play Food Truck</option>
+    <option value="yelpwidget12">Grr Che</option>
+    <option value="yelpwidget13">Gypsy Queen Cafe</option>   
+    <option value="yelpwidget14">Jimmy's Famous Seafood</option>
+    <option value="yelpwidget15">Karlita's</option>
+    <option value="yelpwidget16">KOCO</option>
+    <option value="yelpwidget17">Kommie Pig</option>
+    <option value="yelpwidget18">Kooper's Chowhound Wagon</option>
+    <option value="yelpwidget19">Lucky Cup</option>
+    <option value="yelpwidget20">MMM MMM MMM Good Food truck</option>
+    <option value="yelpwidget21">Pirates of the Mediterranean</option>
+    <option value="yelpwidget22">Pizza di Joey</option>
+    <option value="yelpwidget23">Savannah's Caribbean Kitchen</option>
+    <option value="yelpwidget24">Shareef's Grill</option>
+    <option value="yelpwidget25">South Carolina BBQ & Catering</option>
+     <option value="yelpwidget26">Tacos Jalisco</option>
+    <option value="yelpwidget27">The Crab Lab</option>
+    <option value="yelpwidget28">The Green Bowl</option>
+    <option value="yelpwidget29">The Jolly Pig</option>
+    <option value="yelpwidget30">The Smoking Swine</option>
+    <option value="yelpwidget31">The Sultan</option>
+    <option value="yelpwidget32">UpSlideDown Dave</option>
+    <option value="yelpwidget33">Wheyich</option>
+  </select>
+	</form>
+	</div>
+	<div class="large-5 large-pull-1 medium-6 columns">
+<div class="yelpwidget hidden" id="yelpwidget"></div>
+<div class="yelpwidget hidden" id="yelpwidget02"></div>  
+<div class="yelpwidget hidden" id="yelpwidget03"></div>
+<div class="yelpwidget hidden" id="yelpwidget04"></div>
+<div class="yelpwidget hidden" id="yelpwidget05"></div>  
+<div class="yelpwidget hidden" id="yelpwidget06"></div>
+<div class="yelpwidget hidden" id="yelpwidget07"></div>
+<div class="yelpwidget hidden" id="yelpwidget08"></div>  
+<div class="yelpwidget hidden" id="yelpwidget09"></div>
+<div class="yelpwidget hidden" id="yelpwidget10"></div>
+<div class="yelpwidget hidden" id="yelpwidget11"></div>  
+<div class="yelpwidget hidden" id="yelpwidget12"></div>
+<div class="yelpwidget hidden" id="yelpwidget13"></div>
+<div class="yelpwidget hidden" id="yelpwidget14"></div>  
+<div class="yelpwidget hidden" id="yelpwidget15"></div>
+<div class="yelpwidget hidden" id="yelpwidget16"></div>
+<div class="yelpwidget hidden" id="yelpwidget17"></div>  
+<div class="yelpwidget hidden" id="yelpwidget18"></div>
+<div class="yelpwidget hidden" id="yelpwidget19"></div>
+<div class="yelpwidget hidden" id="yelpwidget20"></div>  
+<div class="yelpwidget hidden" id="yelpwidget21"></div>
+<div class="yelpwidget hidden" id="yelpwidget22"></div>
+<div class="yelpwidget hidden" id="yelpwidget23"></div>  
+<div class="yelpwidget hidden" id="yelpwidget24"></div>
+<div class="yelpwidget hidden" id="yelpwidget25"></div>
+<div class="yelpwidget hidden" id="yelpwidget26"></div>  
+<div class="yelpwidget hidden" id="yelpwidget27"></div>
+<div class="yelpwidget hidden" id="yelpwidget28"></div>
+<div class="yelpwidget hidden" id="yelpwidget29"></div>  
+<div class="yelpwidget hidden" id="yelpwidget30"></div>
+<div class="yelpwidget hidden" id="yelpwidget31"></div>
+<div class="yelpwidget hidden" id="yelpwidget32"></div>  
+<div class="yelpwidget hidden" id="yelpwidget33"></div>
+	</div>
+	</div><!--close row-->
+</body> 
+</html>
+    
