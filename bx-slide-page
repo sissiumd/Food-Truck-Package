@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Slides test</title>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.js"></script>
+<!-- bxSlider Javascript file -->
+	<script src="js/jquery.bxslider.min.js"></script>
+<!-- bxSlider CSS file -->
+	<link href="bxslider.css" rel="stylesheet">
+	<link rel="stylesheet" href="foundation/css/normalize.css">
+    <link rel="stylesheet" href="foundation/css/foundation.css"><!--Foundation css-->
+	<link rel="stylesheet" href="stylesheet.css"> 
+	<!--google fonts-->
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans:400,700' rel='stylesheet' type='text/css'>
+	<script>
+$(document).ready(function(){
+$('.bxslider').bxSlider({
+  pagerCustom: '#bx-pager'
+});
+});
+    </script><!--slide-->
+
+
+</head>
+
+<body>
+<div class="slidebox">
+<ul class="bxslider">
+  <li><img src="img/ricebowl.jpg"/><span class="bx-caption">Bibimbap, one of the signature dishes served by The Green Bowl, a two-year-old food truck in Baltimore. <span class="photosource"> (Handout photo courtesy The Green Bowl)</span></span></li>
+  <li><img src="img/profile01.jpg"/><span class="bx-caption">David Chapman, owner of the Green Bowl, started the food truck out of a desire to be his own boss. <span class="photosource"> (Capital News Service photo by Sissi Cao)</span></span></li>
+  <li><img src="img/closeup02.jpg"/><span class="bx-caption">David Chapman, right, owner of The Green Bowl food truck, takes an order from a lunch customer. <span class="photosource">(Capital News Service photo by Sissi Cao)</span></span></li>
+  <li><img src="img/03.jpg"/><span class="bx-caption">A customer at The Green Bowl splashes Sriracha hot sauce onto his Bibimbap for extra flavor. <span class="photosource">(Capital News Service photo by Sissi Cao)</span></span></li>
+  <li><img src="img/upslidedown01.jpg"/><span class="bx-caption">a "chicken salad slider" from UpSlideDown Dave, a food truck that often serves in Baltimore. <span class="photosource">(Handout photo courtesy UpSlideDown Dave)</span></span></li>
+   <li><img src="img/upslidedown03.jpg"/><span class="bx-caption">Food trucks await customers at Patterson Park for the Star Spangled Celebration in 2014. <span class="photosource">(Handout photo courtesy UpSlideDown Dave)</span></span></li>
+  
+  <li><img src="img/truck02.jpg"/><span class="bx-caption">A customer looks at the menu of the Gypsy Queen Cafe, which stops in Fells Point on Friday. <span class="photosource">(Capital News Service photo by Sissi Cao)</span></span></li>
+  <li><img src="img/profile02.jpg"/><span class="bx-caption">Ashley Ridgeway, 26, loves eating at the Gypsy Queen Cafe, which stops close to her workplace on Fridays. <span class="photosource">(Capital News Service photo by Sissi Cao)</span></span></li>
+  <li><img src="img/05.jpg"/><span class="bx-caption">A crowd of customers waits for their food at the Gypsy Queen Cafe in Fells Point. <span class="photosource">(Capital News Service photo by Sissi Cao)</span></span></li>
+</ul>
+
+<div id="bx-pager">
+  <a data-slide-index="0" href=""><img src="img/ricebowl.jpg" /></a>
+  <a data-slide-index="1" href=""><img src="img/profile01.jpg" /></a>
+  <a data-slide-index="2" href=""><img src="img/closeup02.jpg" /></a>
+  <a data-slide-index="3" href=""><img src="img/03.jpg" /></a>
+  <a data-slide-index="4" href=""><img src="img/upslidedown01.jpg" /></a>
+  <a data-slide-index="5" href=""><img src="img/upslidedown03.jpg" /></a>
+  
+  <a data-slide-index="6" href=""><img src="img/truck02.jpg" /></a>
+  <a data-slide-index="7" href=""><img src="img/profile02.jpg"/></a>
+  <a data-slide-index="8" href=""><img src="img/05.jpg" /></a>
+</div>
+</div>
+</body>
+
+</html>
