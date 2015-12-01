@@ -1,0 +1,345 @@
+p{
+font-family: 'Open Sans', sans-serif;
+font-size:16px;
+}
+
+.navbar p{
+font-family: 'Open Sans', sans-serif;
+font-size:16px;
+}
+
+.navbar{
+background-color:#ccc;
+height:20px;
+}
+
+
+.menu img{
+height:15px;
+margin:10px auto !important;
+
+}
+
+.headline{
+margin-top:50px;
+margin-bottom:40px;
+}
+
+.headline h1{
+text-align:center;
+font-family:'oswald',sans-serif;
+font-size:60px;
+}
+
+.byline{
+margin-top:20px;
+}
+
+.byline h5, .byline h5 a{
+text-align:center;
+font-family:'lato', sans-serif;
+font-size:20px;
+color:#4d4d4d;
+font-weight:100;
+}
+
+.smalltitle{
+font-weight:700;
+font-style:bold;
+margin-bottom:20px;
+margin-top:50px;
+}
+
+.date{
+color:#8c8c8c;
+margin-left:15px;
+}
+
+.headline h4{
+font-family:'lato',sans-serif;
+font-size:20px;
+font-weight:200;
+padding:20px 10px;
+color:grey;
+}
+
+.headimage{
+padding-bottom:100px;
+}
+
+.headimage img{
+width:100%;
+}
+
+.headimage .photocap{
+text-align:right;
+font-family:'Open Sans', sans-serif;
+color:grey;
+font-size:12px;
+margin-bottom:50px;
+}
+
+
+.growthchart img{
+width:100%;
+margin:auto;
+}
+
+
+.top-bar{
+margin:auto;
+}
+
+.top-bar img{
+height:15px;
+margin:10px auto;
+padding-left:40px;
+
+}
+
+.headline{
+margin-top:50px;
+margin-bottom:40px;
+}
+
+
+.subtitle{
+border-top:1px solid #ccc; 
+border-bottom:1px solid #ccc;
+margin-top:50px;
+margin-bottom:20px;
+margin-right:30px; 
+text-align:left;
+}
+
+
+
+.headimage{
+margin-bottom:50px;
+}
+
+.headimage img{
+width:100%;
+}
+
+.headimage .photocaption{
+text-align:right;
+width:500px;
+float:right;
+}
+
+
+.growthchart img{
+width:100%;
+margin:auto;
+}
+
+.graphic {
+width:100%;
+
+}
+
+.photosource{
+color:#a6a6a6;
+}
+
+//** yelp style**//
+
+
+form {
+height:570px;
+width:350px;
+border:1px solid #ccc;
+margin-top:30px;
+background-color:#fff !important;
+}
+
+.yelpwidget{
+height:570px;
+width:350px;
+margin-top:30px;
+border:1px solid #ccc;
+padding:10px 20px;
+background-color:#fff;
+overflow:scroll;
+}
+
+form {
+height:570px;
+width:350px;
+border:1px solid #ccc;
+margin-top:30px;
+background-color:#fff !important;
+}
+
+form h3{
+font-family:"Oswald",sans-serif;
+margin-left:20px;
+font-size:28px;
+margin-top:30px;
+margin-right:10px;
+}
+
+form p{
+font-family:sans-serif;
+font-size:14px;
+margin-left:20px;
+padding-top:20px;
+margin-right:20px;
+}
+
+select{
+height:30px;
+width:200px;
+border:1px solid #ccc;
+margin-left:20px;
+
+}
+
+.hidden { 
+padding-top: 2em; 
+
+}
+
+.twitter{
+margin:auto;
+margin-bottom:40px;
+margin-top:20px;
+
+}
+
+.slidebox{
+	max-width:800px;
+	margin:auto;
+	margin-bottom:40px;
+	margin-top:40px;
+	padding:10px;
+	color:#ccc;
+	border-top:3px solid #ccc;
+	border-bottom:3px solid #ccc;
+	}
+	
+.bx-wrapper .bx-caption {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height:60px;
+	color:#fff;
+	font-family:'lato',sans-serif;
+	font-size:13px;
+	padding:3px 20px;
+	background:rgba(0, 0, 0, 0.8);
+	text-align:center;
+}
+
+	
+	
+	.bxslider{
+	margin:auto;
+	}
+	
+	#bx-pager{
+	margin-top:-40px;
+	height:65px;
+	overflow:hidden;
+	}
+	.bxslider img{
+	padding:0px;
+	width:100%;
+	}
+	
+	#bx-pager a img{
+	width:80px;
+	height:65px;
+	border-radius:3px;
+	
+	}
+
+
+footer{
+margin:100px auto;
+text-align:center;
+font-family:'lato',sans-serif;
+font-weight:100;
+font-size:14px;
+color:grey;
+border-top:1px solid #ccc;
+width:80%;
+}
+
+//*media queries**//
+
+@media screen and (max-width: 600px) {
+
+
+}
+
+@media screen and (max-width: 650px) {
+	
+	.headline h1 {
+	font-size: 2em;
+	}
+	
+	.byline h5, .byline h5 a {
+	font-size:16px;
+	}
+	
+	.subtitle h4 {
+	font-size:16px;
+	}
+	
+	.bx-wrapper .bx-caption {
+	font-size:10px;
+	height:50px;
+	}
+	
+	#bx-pager {
+	overflow: scroll;
+	}
+	
+	.top-bar img {
+	height:10px;
+	padding-left:10px;
+	}
+	
+	.subtitle{
+	margin-right:20px;
+	}
+	
+}
+
+@media screen and (max-width: 1000px) {
+	.subtitle{
+	width:90%;
+	margin-left:30px;
+	}
+
+}
+@media screen and (max-width: 800px) {
+    
+    form {
+    width:300px;
+    }
+
+    .yelpwidget {
+    width:300px;
+    }
+    
+    
+}
+
+@media screen and (max-width: 640px) {
+
+form {
+    width:350px;
+    }
+
+    .yelpwidget {
+    width:350px;
+    }
+
+footer {
+   font-size:12px;
+
+}
